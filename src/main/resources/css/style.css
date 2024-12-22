@@ -1,0 +1,7 @@
+
+#form-text-field {
+    -fx-pref-width: 300px; /* Preferred width of text fields */
+    -fx-pref-height: 40px; /* Preferred height of text fields */
+    -fx-border-color: black;
+}
+
